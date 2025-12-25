@@ -1,9 +1,18 @@
 # CardSense
 *CS180 Group Project*
 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/django-1A2C34?style=for-the-badge&logo=django&logoColor=F7BA3E)
+![TypeScript](https://img.shields.io/badge/typescript-%23407ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 **Manage user's budgets and maximize credit card rewards by tracking spending**
 
 Our [presentation slides](./resource/CardSense-Slides.pdf) will help you understand this project in under 5 minutes!
+
+Mobile App version see [here](https://github.com/XiyuanWu/CardSense_App).
 
 **Authors**
 
